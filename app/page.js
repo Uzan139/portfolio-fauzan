@@ -16,14 +16,12 @@ const aboutCards = [
   {
     title: "UI/UX Design",
     icon: "🎨",
-    href: "https://www.figma.com/design/1WkbnLv1kMASV2NCLmqqQz/TanEasy-New-Version?node-id=0-1&t=V2OIouCe26a8l3TV-1",
     description:
       "Perancangan antarmuka berpusat pada pengguna dengan pendekatan design thinking yang sistematis serta penerapan pola desain yang telah tervalidasi.",
   },
   {
     title: "Frontend Development",
-    icon: "</>",
-    href: "https://github.com/velocity-id/velocity-fe",
+    icon: "👩🏻‍💻",
     description:
       "Pengembangan kode yang bersih, terstruktur, dan mudah dipelihara menggunakan React, TypeScript, serta teknologi web modern.",
   },
@@ -33,6 +31,13 @@ const aboutCards = [
     href: "https://drive.google.com/drive/folders/1M8jwhM_Qg8Sc_m5_oGTQXSzJKkbRFg_X?usp=sharing",
     description:
       "Pendekatan berorientasi kualitas melalui pengujian sistematis, analisis edge case, serta proses validasi yang terstruktur.",
+  },
+  {
+    title: "organizational experience",
+    icon: "👥",
+    href: "https://drive.google.com/drive/folders/1DtlIw29Dr6JBrUnwV9Lpf__JDo9gMMIg?usp=sharing",
+    description:
+      "Pengalaman dalam organisasi yang memperkuat kemampuan leadership, kolaborasi tim, problem solving, serta komunikasi efektif dalam merancang dan menjalankan program kerja.",
   },
 ];
 
