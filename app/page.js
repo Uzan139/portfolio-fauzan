@@ -6,8 +6,8 @@ const profile = {
   univ: "Universitas Pendidikan Indonesia (UPI)",
   email: "uzanardi139@upi.edu",
   sosial: {
-    github: "https://github.com/username_kamu",
-    linkedin: "https://linkedin.com/in/username_kamu",
+    github: "https://github.com/Uzan139",
+    linkedin: "https://linkedin.com/in/fauzan-ardiansyah-99a1973a5",
     instagram: "https://instagram.com/uzanardi_",
   },
 };
